@@ -4,31 +4,30 @@
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
-  googleTrackingID: "UA-174238252-2",
+  googleTrackingID: "G-9HGKE40QWP",
 };
 
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title2: "SEAD",
+  logo_name: "Sead-dev",
+  nickname: "Sead Dibi",
+  full_name: "SEAD Adan",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
-  resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+  resumeLink: "",
+  mail: "mailto:siciidcawad@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  github: "https://github.com/seadadan",
+  linkedin: "https://www.linkedin.com/in/sead-adan-b6408a202/",
+  gmail: "siciidcawad@gmail.com",
+  gitlab: "https://gitlab.com/seadadan",
+  facebook: "https://www.facebook.com/said.dhiiif/",
+  twitter: "https://twitter.com/seadadan",
+  instagram: "https://www.instagram.com/sead_adan/",
 };
 
 const skills = {
@@ -274,31 +273,31 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
-      alt_name: "SSEC",
-      duration: "2021 - Present",
+      title: "ABAARSO TECH UNIVERSITY",
+      subtitle: "Bachelor in software engineering",
+      logo_path: "atu.jpg",
+      alt_name: "ATU",
+      duration: "2019 - 2022",
       descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        // "⚡ I'm currently pursuing my bachelors in Information Technology.",
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "https://www.abaarsotechuniversity.org/",
     },
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
+      title: "Tisqaad computer science college",
       subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
+      logo_path: "tcc.png",
+      alt_name: "TCC",
+      duration: "2017 - 2018",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://www.facebook.com/TisqaadComputerScienceCollege/",
     },
   ],
 };
@@ -306,27 +305,27 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "M0001: MongoDB Basics",
-      subtitle: "MongoDB University",
-      logo_path: "mongo.png",
+      title: "Fikrcamp",
+      subtitle: "Fikrcamp coding bootcamp",
+      logo_path: "fikr.png",
       certificate_link:
-        "https://drive.google.com/file/d/12se6bMep48WXA1PlizTBAgCnW0GXM6wq/view?usp=sharing",
-      alt_name: "MongoDB University",
+        "https://drive.google.com/file/d/1pOK6Th26RU6QMHXK1sXH3P4bkikm8gtr/view?usp=sharing",
+      alt_name: "Fikrcamp",
       // color_code: "#2AAFED",
       color_code: "#47A048",
     },
     {
-      title: "Hackathon",
-      subtitle: "Hack The Mountains",
-      logo_path: "hackathon1.svg",
+      title: "IPRT institute",
+      subtitle: "IPRT institute for practical Research and training",
+      logo_path: "iprt.png",
       certificate_link:
-        "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
+        "https://drive.google.com/file/d/1D9QVsuPseeGw2iTbJ3QSOn0BWk8XOl4U/view?usp=sharing",
       alt_name: "hackathon",
       color_code: "#E2405F",
     },
     {
-      title: "A300: Atlas Security",
-      subtitle: "MongoDB University",
+      title: "community college",
+      subtitle: "community college  computer science",
       logo_path: "mongo.png",
       certificate_link:
         "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
@@ -334,43 +333,43 @@ const certifications = {
       // color_code: "#F6B808",
       color_code: "#47A048",
     },
-    {
-      title: "Cyber Security & Cyber Forensics",
-      subtitle: "Workshop at IIT Bombay",
-      logo_path: "iit.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
-      alt_name: "Workshop",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "MLH Local Hack Day: Build",
-      subtitle: "Major League Hacking",
-      logo_path: "mlh-logo.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
-      alt_name: "Google",
-      color_code: "#fe0037",
-    },
-    {
-      title: "Hack20",
-      subtitle: "Flutter International Hackathon",
-      logo_path: "flutter.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
-      alt_name: "Flutter International Hackathon",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "Postman Student Expert",
-      subtitle: "Postman",
-      logo_path: "postman.png",
-      certificate_link:
-        "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
-      alt_name: "Postman",
-      // color_code: "#f36c3d",
-      color_code: "#fffbf3",
-    },
+    // {
+    //   title: "Cyber Security & Cyber Forensics",
+    //   subtitle: "Workshop at IIT Bombay",
+    //   logo_path: "iit.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
+    //   alt_name: "Workshop",
+    //   color_code: "#2AAFED",
+    // },
+    // {
+    //   title: "MLH Local Hack Day: Build",
+    //   subtitle: "Major League Hacking",
+    //   logo_path: "mlh-logo.svg",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
+    //   alt_name: "Google",
+    //   color_code: "#fe0037",
+    // },
+    // {
+    //   title: "Hack20",
+    //   subtitle: "Flutter International Hackathon",
+    //   logo_path: "flutter.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
+    //   alt_name: "Flutter International Hackathon",
+    //   color_code: "#2AAFED",
+    // },
+    // {
+    //   title: "Postman Student Expert",
+    //   subtitle: "Postman",
+    //   logo_path: "postman.png",
+    //   certificate_link:
+    //     "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
+    //   alt_name: "Postman",
+    //   // color_code: "#f36c3d",
+    //   color_code: "#fffbf3",
+    // },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
