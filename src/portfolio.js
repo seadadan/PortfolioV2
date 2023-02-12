@@ -65,13 +65,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#7377AD",
+        //   },
+        // },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -107,34 +107,34 @@ const skills = {
         //     color: "#DE33A6",
         //   },
         // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
+        // {
+        //   skillName: "Android",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
+        // {
+        //   skillName: "Java",
+        //   fontAwesomeClassname: "simple-icons:java",
+        //   style: {
+        //     color: "#f89820",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
+        // {
+        //   skillName: "Dart",
+        //   fontAwesomeClassname: "simple-icons:dart",
+        //   style: {
+        //     color: "#29B0EE",
+        //   },
+        // },
         // {
         //   skillName: "Visual Basic",
         //   fontAwesomeClassname: "simple-icons:dot-net",
@@ -163,13 +163,13 @@ const skills = {
             color: "#207297",
           },
         },
-        {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
+        // {
+        //   skillName: "Apache",
+        //   fontAwesomeClassname: "simple-icons:apache",
+        //   style: {
+        //     color: "#CA1A22",
+        //   },
+        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -177,20 +177,20 @@ const skills = {
             color: "#E94E32",
           },
         },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
+        // {
+        //   skillName: "C",
+        //   fontAwesomeClassname: "simple-icons:c",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "simple-icons:cplusplus",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
@@ -545,7 +545,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "sead.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -553,7 +553,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+    link: "https://twitter.com/seadadan",
     avatar_image_path: "blogs_image.svg",
   },
 };
